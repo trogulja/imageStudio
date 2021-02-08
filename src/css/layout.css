@@ -1,5 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-
+@import url('http://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,300&display=swap');
 @import url("colors/color-blue.css");
 
 
@@ -94,7 +94,7 @@
   background: rgba(0,0,0,.6);
   color: rgba(0,0,0,.6);
   line-height: 60px;
-		font-family: 'OpenSans-Light-webfont';
+		font-family: 'Open Sans', sans-serif;
 }
 
 .pace .pace-progress:after {
@@ -977,7 +977,7 @@ ul.slimmenu li a {
     padding: 10px 0px;
 	cursor:pointer;
     margin: 0px 12px;
-	font-family: 'OpenSans-Light-webfont';
+	font-family: 'Open Sans', sans-serif;
 	text-transform:uppercase;
     border-bottom:2px solid rgba(0,0,0,0);
     font-size: 12px;
@@ -1102,7 +1102,7 @@ ul.slimmenu.collapsed li > ul {
 	color:#000;
 	font-size: 14px;
 	text-align:left;
-	font-family: 'OpenSans-Light-webfont';
+	font-family: 'Open Sans', sans-serif;
 	margin-bottom:150px;
 }
 .home-text p span{
@@ -1308,7 +1308,7 @@ right: 0;
 	position: relative;
 	display: inline-block;
 	margin-top:25px;
-	font-family: 'OpenSans-Light-webfont';
+	font-family: 'Open Sans', sans-serif;
 	outline: none;
 	color: #000;
 	text-decoration: none;
@@ -1393,7 +1393,7 @@ right: 0;
 	margin-bottom:30px;
 }
 .sub-left{
-	font-family: 'OpenSans-Light-webfont';
+	font-family: 'Open Sans', sans-serif;
 	text-align:left;
 	font-size: 20px;
 	line-height:26px;
@@ -1486,11 +1486,11 @@ right: 0;
 }
 .facts-wrap-num{
 	position: absolute; 
-	font-family: 'OpenSans-Light-webfont';
+	font-family: 'Open Sans', sans-serif;
 	font-weight:800;
-	font-size: 120px; 
+	font-size: 100px; 
 	line-height:120px;
-	color:rgba(50,50,50,1);
+	color:rgba(20,20,20,1);
 	text-shadow: 0px -2px 0px #333,
                   0px 2px 3px #666;
 	top:20px;
@@ -1538,7 +1538,7 @@ right: 0;
 	position: relative;
 	display: inline-block;
 	margin-top:25px;
-	font-family: 'OpenSans-Light-webfont';
+	font-family: 'Open Sans', sans-serif;
 	outline: none;
 	margin:0 auto;
 	text-align:center;
@@ -1653,7 +1653,7 @@ right: 0;
 	animation:css-st 2s ease-out;
 }
 .bar-prc2 {
-	width:85%; 
+	width:88%; 
 }
 .bar-prc2-an {
 	-moz-animation:jQuery 2s ease-out;
@@ -1661,7 +1661,7 @@ right: 0;
 	animation:jQuery 2s ease-out;
 }
 .bar-prc3 {
-	width:80%; 
+	width:89%; 
 }
 .bar-prc3-an {
 	-moz-animation:Wordpress 2s ease-out;
@@ -1669,7 +1669,7 @@ right: 0;
 	animation:Wordpress 2s ease-out;
 }
 .bar-prc4 {
-	width:68%; 
+	width:95%; 
 }
 .bar-prc4-an {
 	-moz-animation:graphic-design 2s ease-out;
@@ -1677,7 +1677,7 @@ right: 0;
 	animation:graphic-design 2s ease-out;
 }
 .bar-prc5 {
-	width:90%;
+	width:98%;
 }
 .bar-prc5-an {
 	-moz-animation:html 2s ease-out;
@@ -1685,7 +1685,7 @@ right: 0;
 	animation:html 2s ease-out;
 }
 .bar-prc6 {
-	width:93%; 
+	width:94%; 
 }
 .bar-prc6-an {
 	-moz-animation:MoTools 2s ease-out;
@@ -1697,25 +1697,25 @@ right: 0;
 
 
 @-moz-keyframes css-st {0%  { width:0px;} 100%{ width:95%;}  }
-@-moz-keyframes jQuery        { 0%  { width:0px;} 100%{ width:85%;}  }
-@-moz-keyframes Wordpress        { 0%  { width:0px;} 100%{ width:80%;}  }
-@-moz-keyframes graphic-design        { 0%  { width:0px;} 100%{ width:68%;}  }
-@-moz-keyframes html        { 0%  { width:0px;} 100%{ width:90%;}  }
-@-moz-keyframes MoTools        { 0%  { width:0px;} 100%{ width:93%;}  }
+@-moz-keyframes jQuery        { 0%  { width:0px;} 100%{ width:88%;}  }
+@-moz-keyframes Wordpress        { 0%  { width:0px;} 100%{ width: 89%;}  }
+@-moz-keyframes graphic-design        { 0%  { width:0px;} 100%{ width:95%;}  }
+@-moz-keyframes html        { 0%  { width:0px;} 100%{ width:98%;}  }
+@-moz-keyframes MoTools        { 0%  { width:0px;} 100%{ width:94%;}  }
 
 @-webkit-keyframes css-st       { 0%  { width:0px;} 100%{ width:95%;}  }
-@-webkit-keyframes jQuery        { 0%  { width:0px;} 100%{ width:85%;}  }
-@-webkit-keyframes Wordpress        { 0%  { width:0px;} 100%{ width:80%;}  }
-@-webkit-keyframes graphic-design        { 0%  { width:0px;} 100%{ width:68%;}  }
-@-webkit-keyframes html        { 0%  { width:0px;} 100%{ width:90%;}  }
-@-webkit-keyframes MoTools        { 0%  { width:0px;} 100%{ width:93%;}  }
+@-webkit-keyframes jQuery        { 0%  { width:0px;} 100%{ width:88%;}  }
+@-webkit-keyframes Wordpress        { 0%  { width:0px;} 100%{ width:89%;}  }
+@-webkit-keyframes graphic-design        { 0%  { width:0px;} 100%{ width:95%;}  }
+@-webkit-keyframes html        { 0%  { width:0px;} 100%{ width:98%;}  }
+@-webkit-keyframes MoTools        { 0%  { width:0px;} 100%{ width:94%;}  }
 
 @keyframes css-st       { 0%  { width:0px;} 100%{ width:95%;}  }
-@keyframes jQuery        { 0%  { width:0px;} 100%{ width:85%;}  }
-@keyframes Wordpress        { 0%  { width:0px;} 100%{ width:80%;}  }
-@keyframes graphic-design        { 0%  { width:0px;} 100%{ width:68%;}  }
-@keyframes html        { 0%  { width:0px;} 100%{ width:90%;}  }
-@keyframes MoTools        { 0%  { width:0px;} 100%{ width:93%;}  }
+@keyframes jQuery        { 0%  { width:0px;} 100%{ width:88%;}  }
+@keyframes Wordpress        { 0%  { width:0px;} 100%{ width:89%;}  }
+@keyframes graphic-design        { 0%  { width:0px;} 100%{ width:95%;}  }
+@keyframes html        { 0%  { width:0px;} 100%{ width:98%;}  }
+@keyframes MoTools        { 0%  { width:0px;} 100%{ width:94%;}  }
 
 
 
@@ -1988,7 +1988,7 @@ right: 0;
 }
 #separ2 h1 span{
 	padding:20px;
-	background:rgba(255,255,255,.1);
+	background:rgba(0,0,0,.3);
 }
 .background-color1{
 	position: absolute;
@@ -2181,7 +2181,7 @@ right: 0;
 	display: inline-block;
 	text-align:center;
 	margin:0 auto;
-	font-family: 'OpenSans-Light-webfont';
+	font-family: 'Open Sans', sans-serif;
 	outline: none;
 	color: #000;
 	text-decoration: none;
@@ -2368,7 +2368,7 @@ right: 0;
 #filter li a {
 	position: relative;
 	display: inline-block;
-	font-family: 'OpenSans-Light-webfont';
+	font-family: 'Open Sans', sans-serif;
 	outline: none;
 	color: #000;
 	text-decoration: none;
@@ -2496,27 +2496,27 @@ right: 0;
 
 	#ajax-form {
 		width: 100%;
-		font: 16px/22px 'OpenSans-Light-webfont';
+		font: 16px/22px 'Open Sans', sans-serif;
 	color:#7a7a7a;
 	margin:0 auto;
 	}
 	label {
 		display: block;
-		font: 16px/34px 'OpenSans-Light-webfont';
+		font: 16px/34px 'Open Sans', sans-serif;
 	}
 	input{
 		width: 96%;
 		border:none;
 		background:#f5f5f5;
 		margin-bottom:10px;
-		font: 16px/22px 'OpenSans-Light-webfont';
+		font: 16px/22px 'Open Sans', sans-serif;
 		padding-top: 15px;
 		padding-bottom: 15px;
 	}
 	textarea {
 		width:96%;
 		background:#f5f5f5;
-		font: 16px/22px 'OpenSans-Light-webfont';
+		font: 16px/22px 'Open Sans', sans-serif;
 		height:120px;
 		margin-top:2px;
 		padding-top: 15px;
@@ -2524,13 +2524,13 @@ right: 0;
 		border:none;
 	}
 	.error {
-		font: 16px/22px 'OpenSans-Light-webfont';
+		font: 16px/22px 'Open Sans', sans-serif;
 		display: none;
 	}
 	#ajaxsuccess {
 		background: #f5f5f5;
 		color:#000;
-		font: 20px/60px 'OpenSans-Light-webfont';
+		font: 20px/60px 'Open Sans', sans-serif;
 		height:60px;
 		display: none;
 		padding-left:10px;
@@ -2549,7 +2549,7 @@ right: 0;
 	width:110px;
 	margin:0 auto;
 	text-align:center;
-	font-family: 'OpenSans-Light-webfont';
+	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 	line-height:22px;
 	color:#fff;
@@ -2689,7 +2689,7 @@ right: 0;
 #footer a {
 	position: relative;
 	display: inline-block;
-	font-family: 'OpenSans-Light-webfont';
+	font-family: 'Open Sans', sans-serif;
 	outline: none;
 	margin:0 auto;
 	text-align:center;
@@ -2776,7 +2776,7 @@ right: 0;
 	position: relative;
 	display: inline-block;
 	margin-top:20px;
-	font-family: 'OpenSans-Light-webfont';
+	font-family: 'Open Sans', sans-serif;
 	outline: none;
 	color: #000;
 	text-decoration: none;
@@ -2894,7 +2894,7 @@ right: 0;
 #filter-blog li a {
 	position: relative;
 	display: inline-block;
-	font-family: 'OpenSans-Light-webfont';
+	font-family: 'Open Sans', sans-serif;
 	outline: none;
 	color: #000;
 	text-decoration: none;
@@ -3146,34 +3146,6 @@ right: 0;
 
 
 
-/* #Font-Face
-================================================== */
-
-
-
-
-
-@font-face {
-    font-family: 'OpenSans-Light-webfont';
-    src: url('font/OpenSans-Light-webfont.eot');
-    src: url('font/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('font/OpenSans-Light-webfont.woff') format('woff'),
-         url('font/OpenSans-Light-webfont.ttf') format('truetype'),
-         url('font/OpenSans-Light-webfont.svg#BebasNeueRegular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-
-
-
-
-
-
 /* #Panel
 ================================================== */
 
@@ -3187,7 +3159,7 @@ z-index: 99999;
 width:200px;
 margin-left: -100px;
 border-radius: 0 5px 5px 0;
-		font-family: 'OpenSans-Light-webfont';
+		font-family: 'Open Sans', sans-serif;
 -webkit-box-shadow: 0px 0px 4px 0px rgba(51, 51, 51, 0.2);
 box-shadow: 0px 0px 4px 0px rgba(51, 51, 51, 0.2);}
 #switch p {margin-bottom: 10px; padding-bottom: 15px; padding-top: 5px; border-bottom:#ededed 1px solid; }
