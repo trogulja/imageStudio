@@ -2725,9 +2725,9 @@ right: 0;
 }	  
 
 #project img{
-	width: 100%;
-	height:auto;
-	display:block;
+	/* width: 100%; */
+	/* height:auto; */
+	/* display:block; */
 }
 #project h2{
 	padding-bottom:30px;
