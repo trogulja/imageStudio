@@ -42,38 +42,66 @@
     <div id="project">
       <div class="container">
         <div class="sixteen columns">
-          <h2>Project Title</h2>
+          <h2>e-Commerce</h2>
         </div>
         <div class="sixteen columns">
-          <div class="b-dics">
-						<img src="images/usluga1/usluga1.jpg" alt="before" />
-						<img src="images/usluga1/usluga2.jpg" alt="after" />
+          <div class="b-dics" id="dics-main">
+            <img src="images/usluga1/usluga1.jpg" alt="before" />
+            <img src="images/usluga1/usluga2.jpg" alt="after" />
           </div>
         </div>
-        <div class="one-third column">
-          <h6>THE CHALLENGE</h6>
-          <p>
-            Pellentesque egestas ornare sagittis. Sed augue lorem, dignissim eget bibendum vitae, scelerisque eget
-            justo.
-          </p>
-        </div>
-        <div class="one-third column">
-          <h6>THE SOLUTION</h6>
-          <p>
-            Pellentesque egestas ornare sagittis. Sed augue lorem, dignissim eget bibendum vitae, scelerisque eget
-            justo.
-          </p>
-        </div>
-        <div class="one-third column">
-          <h6>THE RESULT</h6>
-          <p>
-            Pellentesque egestas ornare sagittis. Sed augue lorem, dignissim eget bibendum vitae, scelerisque eget
-            justo.
-          </p>
-        </div>
         <div class="sixteen columns">
-          <div id="project-link">
-            <div class="cl-effect-7"><a href="#">Visit Website</a></div>
+          <div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore perspiciatis eaque molestias dolor beatae veritatis corporis nostrum magnam ratione! Quod veniam dolorem ullam rerum soluta
+            illum eius enim alias voluptatibus ut quo, inventore, eos nostrum corporis. Nobis atque eius libero quibusdam, laborum odio. Beatae mollitia cupiditate tempora nam voluptatibus minima.
+          </div>
+        </div>
+        <div class="eight columns">
+          <div class="b-dics" id="dics-sample1">
+            <img src="images/gallery/1.jpg" alt="before" />
+            <img src="images/gallery/2.jpg" alt="after" />
+          </div>
+        </div>
+        <div class="eight columns">
+          <div class="b-dics" id="dics-sample2">
+            <img src="images/gallery/1.jpg" alt="before" />
+            <img src="images/gallery/2.jpg" alt="after" />
+          </div>
+        </div>
+        <div class="eight columns">
+          <div class="b-dics" id="dics-sample3">
+            <img src="images/gallery/1.jpg" alt="before" />
+            <img src="images/gallery/2.jpg" alt="after" />
+          </div>
+        </div>
+        <div class="eight columns">
+          <div class="b-dics" id="dics-sample4">
+            <img src="images/gallery/1.jpg" alt="before" />
+            <img src="images/gallery/2.jpg" alt="after" />
+          </div>
+        </div>
+        <div class="eight columns">
+          <div class="b-dics" id="dics-sample5">
+            <img src="images/gallery/1.jpg" alt="before" />
+            <img src="images/gallery/2.jpg" alt="after" />
+          </div>
+        </div>
+        <div class="eight columns">
+          <div class="b-dics" id="dics-sample6">
+            <img src="images/gallery/1.jpg" alt="before" />
+            <img src="images/gallery/2.jpg" alt="after" />
+          </div>
+        </div>
+        <div class="eight columns">
+          <div class="b-dics" id="dics-sample7">
+            <img src="images/gallery/1.jpg" alt="before" />
+            <img src="images/gallery/2.jpg" alt="after" />
+          </div>
+        </div>
+        <div class="eight columns">
+          <div class="b-dics" id="dics-sample8">
+            <img src="images/gallery/1.jpg" alt="before" />
+            <img src="images/gallery/2.jpg" alt="after" />
           </div>
         </div>
       </div>
@@ -117,10 +145,59 @@
       //DICS - https://github.com/abelcabezaroman/definitive-image-comparison-slider
       $(document).ready(function () {
         new Dics({
-          container: document.querySelector('.b-dics'),
+          container: document.querySelector('#dics-main'),
           hideTexts: true,
           textPosition: 'top',
-					linesColor: 'rgb(52,152,219)'
+          linesColor: 'rgb(52,152,219)',
+        });
+
+        new Dics({
+          container: document.querySelector('#dics-sample1'),
+          hideTexts: true,
+          textPosition: 'top',
+          linesColor: 'rgb(52,152,219)',
+        });
+        new Dics({
+          container: document.querySelector('#dics-sample2'),
+          hideTexts: true,
+          textPosition: 'top',
+          linesColor: 'rgb(52,152,219)',
+        });
+        new Dics({
+          container: document.querySelector('#dics-sample3'),
+          hideTexts: true,
+          textPosition: 'top',
+          linesColor: 'rgb(52,152,219)',
+        });
+        new Dics({
+          container: document.querySelector('#dics-sample4'),
+          hideTexts: true,
+          textPosition: 'top',
+          linesColor: 'rgb(52,152,219)',
+        });
+        new Dics({
+          container: document.querySelector('#dics-sample5'),
+          hideTexts: true,
+          textPosition: 'top',
+          linesColor: 'rgb(52,152,219)',
+        });
+        new Dics({
+          container: document.querySelector('#dics-sample6'),
+          hideTexts: true,
+          textPosition: 'top',
+          linesColor: 'rgb(52,152,219)',
+        });
+        new Dics({
+          container: document.querySelector('#dics-sample7'),
+          hideTexts: true,
+          textPosition: 'top',
+          linesColor: 'rgb(52,152,219)',
+        });
+        new Dics({
+          container: document.querySelector('#dics-sample8'),
+          hideTexts: true,
+          textPosition: 'top',
+          linesColor: 'rgb(52,152,219)',
         });
       });
     </script>

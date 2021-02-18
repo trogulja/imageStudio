@@ -7,22 +7,40 @@ web site 4 image studio - various versions
 - [x] Navigacija
 - [ ] Hero
   - [ ] Naslov
-    - [ ] js text rotator bolja verzija
+    - [x] js text rotator bolja verzija
     - [ ] margine da ne prelazi preko slike
     - [ ] dužina teksta koji se rotira mora bit ista
   - [ ] Podnaslov
     - [ ] margine da ne prelazi preko slike
-  - [ ] E-commerce dio
-    - [ ] relevantna slika monitora (web shop!)
-- [ ] O nama
-  - [ ] brojke
-    - [ ] prijevod naslova na hr
-    - [ ] provjeriti kontrast brojki koje se vrte
-    - [ ] zamijeniti ikone relevantnim svgovima (trenutno png)
+  - [x] E-commerce dio
+    - [x] relevantna slika monitora (web shop!)
+- [x] O nama
+  - [x] brojke
+    - [x] prijevod naslova na hr
+    - [x] provjeriti kontrast brojki koje se vrte
+    - [x] zamijeniti ikone relevantnim svgovima (trenutno png)
 - [ ] Tim
   - [ ] odobrenje kolega (tko želi, a tko ne)
   - [ ] citati - rečenica ili dvije teksta - svatko o sebi izmisliti (ako želi bit gore)
+    - [ ] Dejan
+    - [ ] Majda
+    - [ ] Karlo
+    - [ ] Silvija
+    - [ ] Andrea
+    - [ ] Krešo
+    - [ ] Nataša
+    - [ ] Božica
+    - [x] Tibor
   - [ ] linkovi - na e-mail + ako želi na još nešto
+    - [ ] Dejan
+    - [ ] Majda
+    - [ ] Karlo
+    - [ ] Silvija
+    - [ ] Andrea
+    - [ ] Krešo
+    - [ ] Nataša
+    - [ ] Božica
+    - [x] Tibor
   - [ ] Naša specijalnost
     - [ ] odluka što s tim... da li se miče ili transformira u nešto drugo
 - [ ] Klijenti
@@ -31,7 +49,7 @@ web site 4 image studio - various versions
   - [ ] citati klijenata
 - [ ] Usluge
   - [ ] e-commerce
-    - [ ] layout
+    - [x] layout
     - [x] glavna grafika mockup
     - [ ] tekst opisa (slike prodaju proizvode...)
     - [ ] proizvodi before / after (8 komada)
@@ -83,6 +101,6 @@ web site 4 image studio - various versions
     - [ ] projekt 8 - ???
 - [ ] Kontakt
   - [ ] e-mail sa stranice završava u karanteni (Krešo vidio, zna kak do karantene)
-- [ ] Karta
-  - [ ] pin pokazuje na krivu zgradu, promijeniti to
+- [x] Karta
+  - [x] pin pokazuje na krivu zgradu, promijeniti to
 - [x] Footer

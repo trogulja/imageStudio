@@ -132,16 +132,23 @@ jQuery(document.body).on('appear', '.bar-prc6', function () {
   });
 });
 
-//Home text rotator	
-	
-$(document).ready(function(){
-  $("#rotator .boxwords").textrotator({
-    animation: "dissolve",
-    speed: 4000
+//Home text rotator
+
+$(document).ready(function () {
+  // var replace = $('.replace-me').ReplaceMe();
+  var replace = new ReplaceMe(document.querySelector('#rotator .boxwords'), {
+    animation: 'animate__animated animate__fadeInDown animate__slow', // Animation class or classes
+    speed: 6000, // Delay between each phrase in miliseconds
+    separator: ',', // Phrases separator
+    hoverStop: false, // Stop rotator on phrase hover
+    clickChange: false, // Change phrase on click
+    loopCount: 'infinite', // Loop Count - 'infinite' or number
+    autoRun: true, // Run rotator automatically
+    onInit: false, // Function
+    onChange: false, // Function
+    onComplete: false, // Function
   });
 });
-
-
 
 //Home Background Slider
 
@@ -447,62 +454,55 @@ jQuery(document).ready(function ($) {
 //Google map
 
 /*global $:false */
-var map;
-$(document).ready(function () {
-  'use strict';
-  map = new GMaps({
-    disableDefaultUI: true,
-    scrollwheel: false,
-    el: '#map',
-    lat: 44.789511,
-    lng: 20.43633,
-  });
-  map.drawOverlay({
-    lat: map.getCenter().lat(),
-    lng: map.getCenter().lng(),
-    layer: 'overlayLayer',
-    content: '<div class="overlay"></div>',
-    verticalAlign: 'center',
-    horizontalAlign: 'center',
-  });
-  var styles = [
-    {
-      featureType: 'poi',
-      stylers: [
-        { visibility: 'on' },
-        { weight: 0.9 },
-        { lightness: 37 },
-        { gamma: 0.62 },
-        { hue: '#ff0000' },
-        { saturation: -93 },
-      ],
-    },
-    {
-      featureType: 'poi',
-      stylers: [{ hue: '#ff0000' }, { saturation: -1 }, { color: '#ffffff' }, { weight: 0.2 }],
-    },
-    {
-      featureType: 'road',
-      stylers: [{ hue: '#ff0000' }, { saturation: -98 }],
-    },
-    {
-      featureType: 'landscape',
-      stylers: [{ hue: '#ff0000' }, { saturation: -89 }],
-    },
-    {
-      featureType: 'water',
-      stylers: [{ weight: 0.4 }, { saturation: -38 }],
-    },
-  ];
+// var map;
+// $(document).ready(function () {
+//   'use strict';
+//   map = new GMaps({
+//     disableDefaultUI: true,
+//     scrollwheel: false,
+//     el: '#map',
+//     lat: 44.789511,
+//     lng: 20.43633,
+//   });
+//   map.drawOverlay({
+//     lat: map.getCenter().lat(),
+//     lng: map.getCenter().lng(),
+//     layer: 'overlayLayer',
+//     content: '<div class="overlay"></div>',
+//     verticalAlign: 'center',
+//     horizontalAlign: 'center',
+//   });
+//   var styles = [
+//     {
+//       featureType: 'poi',
+//       stylers: [{ visibility: 'on' }, { weight: 0.9 }, { lightness: 37 }, { gamma: 0.62 }, { hue: '#ff0000' }, { saturation: -93 }],
+//     },
+//     {
+//       featureType: 'poi',
+//       stylers: [{ hue: '#ff0000' }, { saturation: -1 }, { color: '#ffffff' }, { weight: 0.2 }],
+//     },
+//     {
+//       featureType: 'road',
+//       stylers: [{ hue: '#ff0000' }, { saturation: -98 }],
+//     },
+//     {
+//       featureType: 'landscape',
+//       stylers: [{ hue: '#ff0000' }, { saturation: -89 }],
+//     },
+//     {
+//       featureType: 'water',
+//       stylers: [{ weight: 0.4 }, { saturation: -38 }],
+//     },
+//   ];
 
-  map.addStyle({
-    styledMapName: 'Styled Map',
-    styles: styles,
-    mapTypeId: 'map_style',
-  });
+//   map.addStyle({
+//     styledMapName: 'Styled Map',
+//     styles: styles,
+//     mapTypeId: 'map_style',
+//   });
 
-  map.setStyle('map_style');
-});
+//   map.setStyle('map_style');
+// });
 
 // Switcher CSS
 $(document).ready(function () {
