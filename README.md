@@ -1,2 +1,88 @@
 # imageStudio
+
 web site 4 image studio - various versions
+
+# todo
+
+- [x] Navigacija
+- [ ] Hero
+  - [ ] Naslov
+    - [ ] js text rotator bolja verzija
+    - [ ] margine da ne prelazi preko slike
+    - [ ] dužina teksta koji se rotira mora bit ista
+  - [ ] Podnaslov
+    - [ ] margine da ne prelazi preko slike
+  - [ ] E-commerce dio
+    - [ ] relevantna slika monitora (web shop!)
+- [ ] O nama
+  - [ ] brojke
+    - [ ] prijevod naslova na hr
+    - [ ] provjeriti kontrast brojki koje se vrte
+    - [ ] zamijeniti ikone relevantnim svgovima (trenutno png)
+- [ ] Tim
+  - [ ] odobrenje kolega (tko želi, a tko ne)
+  - [ ] citati - rečenica ili dvije teksta - svatko o sebi izmisliti (ako želi bit gore)
+  - [ ] linkovi - na e-mail + ako želi na još nešto
+  - [ ] Naša specijalnost
+    - [ ] odluka što s tim... da li se miče ili transformira u nešto drugo
+- [ ] Klijenti
+  - [ ] logotipi klijenata
+  - [ ] imena klijenata i njihove funkcije
+  - [ ] citati klijenata
+- [ ] Usluge
+  - [ ] e-commerce
+    - [ ] layout
+    - [x] glavna grafika mockup
+    - [ ] tekst opisa (slike prodaju proizvode...)
+    - [ ] proizvodi before / after (8 komada)
+  - [ ] grafičko oblikovanje
+    - [ ] layout
+    - [ ] glavna grafika mockup
+    - [ ] tekst opisa (za koga smo radili, što smo radili, da li su bili neki izazovi...)
+    - [ ] primjeri stranica (4-8 komada)
+  - [ ] prepress
+    - [ ] layout
+    - [ ] glavna grafika smislit mockup
+    - [ ] tekst opisa (izazovi, problemi sa strojevima zbog previse boje...)
+    - [ ] stranice before/after
+  - [ ] retouch
+    - [ ] layout
+    - [ ] glavna grafika mockup (smisliti)
+    - [ ] tekst opisa (smisliti)
+    - [ ] primjeri obrade before / after (4-8 komada)
+  - [ ] obrada+
+    - [ ] layout
+    - [ ] glavna grafika mockup (novine)
+    - [ ] tekst opisa (gdje i kako pomaze AI, ubrzavanje procesa, ljudska kontrola)
+    - [ ] primjeri obrade before/after (8 komada)
+  - [ ] montaže
+    - [ ] layout
+    - [ ] glavna grafika mockup (smisliti)
+    - [ ] tekst opisa (smisliti)
+    - [ ] primjeri obrade before / after (4-8 komada)
+      - [ ] možda elementi od kojih je sastavljeno?
+      - [ ] možda screen recording timelaps sastavljanja?
+- [ ] Poruke
+  - [ ] ikonu promijenit na e-mail
+  - [ ] css popravit case
+  - [ ] odredit koje poruke idu gore (pohvale / naručivanja / nešto treće)
+- [ ] Portfolio
+  - [ ] definirati ikone
+    - [ ] definirati korake obrade (kolor korekcija, izrezivanje, ...)
+  - [ ] layout dorada
+  - [ ] projekti
+    - [ ] projekt 1 - bicikl
+    - [ ] projekt 2 - dairy
+      - [ ] dodati 5. sliku - cutout
+    - [ ] projekt 3 - soba
+      - [ ] izbaciti 2 slike da ih bude 5
+    - [ ] projekt 4 - vrtni
+    - [ ] projekt 5 - ???
+    - [ ] projekt 6 - ???
+    - [ ] projekt 7 - ???
+    - [ ] projekt 8 - ???
+- [ ] Kontakt
+  - [ ] e-mail sa stranice završava u karanteni (Krešo vidio, zna kak do karantene)
+- [ ] Karta
+  - [ ] pin pokazuje na krivu zgradu, promijeniti to
+- [x] Footer

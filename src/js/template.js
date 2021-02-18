@@ -132,6 +132,17 @@ jQuery(document.body).on('appear', '.bar-prc6', function () {
   });
 });
 
+//Home text rotator	
+	
+$(document).ready(function(){
+  $("#rotator .boxwords").textrotator({
+    animation: "dissolve",
+    speed: 4000
+  });
+});
+
+
+
 //Home Background Slider
 
 $(function () {
