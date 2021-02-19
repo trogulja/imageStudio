@@ -42,41 +42,41 @@
     <div id="project">
       <div class="container">
         <div class="sixteen columns">
-          <h2>Project Title</h2>
+          <h2>Rasvjeta</h2>
         </div>
         <div class="sixteen columns">
-          <div class="b-dics">
-						<img src="images/project1/Bicikl_1.jpg" alt="original" />
-						<img src="images/project1/Bicikl_2.jpg" alt="color correction" />
-						<img src="images/project1/Bicikl_3.jpg" alt="cutout" />
-						<img src="images/project1/Bicikl_4.jpg" alt="add shadow" />
-						<img src="images/project1/Bicikl_5.jpg" alt="add background" />
+          <div class="b-dics" id="dics-main">
+            <img src="images/p4_rasvjeta/1.jpg" alt="original" />
+            <img src="images/p4_rasvjeta/2.jpg" alt="crtanje" />
+            <img src="images/p4_rasvjeta/3.jpg" alt="background" />
           </div>
         </div>
-        <div class="one-third column">
-          <h6>THE CHALLENGE</h6>
-          <p>
-            Pellentesque egestas ornare sagittis. Sed augue lorem, dignissim eget bibendum vitae, scelerisque eget
-            justo.
-          </p>
-        </div>
-        <div class="one-third column">
-          <h6>THE SOLUTION</h6>
-          <p>
-            Pellentesque egestas ornare sagittis. Sed augue lorem, dignissim eget bibendum vitae, scelerisque eget
-            justo.
-          </p>
-        </div>
-        <div class="one-third column">
-          <h6>THE RESULT</h6>
-          <p>
-            Pellentesque egestas ornare sagittis. Sed augue lorem, dignissim eget bibendum vitae, scelerisque eget
-            justo.
-          </p>
-        </div>
         <div class="sixteen columns">
-          <div id="project-link">
-            <div class="cl-effect-7"><a href="#">Visit Website</a></div>
+          <div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas cum est reprehenderit obcaecati aliquam,
+            quia vitae nesciunt molestias repellat, sit dicta laboriosam modi. A totam quaerat omnis officiis! Debitis
+            tempore nostrum, in aliquid necessitatibus labore! Veritatis excepturi distinctio adipisci optio natus
+            maxime maiores eveniet voluptate pariatur itaque! Id, omnis dolor?
+          </div>
+        </div>
+        <div class="four columns">
+          <h3>Crtanje</h3>
+          <img src="images/ikone-01.svg" alt="crtanje ikona" />
+        </div>
+        <div class="twelve columns">
+          <div class="b-dics" id="dics-sample1">
+            <img src="images/p4_rasvjeta/1.jpg" alt="original" />
+            <img src="images/p4_rasvjeta/2.jpg" alt="crtanje" />
+          </div>
+        </div>
+        <div class="four columns">
+          <h3>Background</h3>
+          <img src="images/ikone-01.svg" alt="cutout icon" />
+        </div>
+        <div class="twelve columns">
+          <div class="b-dics" id="dics-sample2">
+            <img src="images/p4_rasvjeta/1.jpg" alt="original" />
+            <img src="images/p4_rasvjeta/3.jpg" alt="background" />
           </div>
         </div>
       </div>
@@ -120,10 +120,23 @@
       //DICS - https://github.com/abelcabezaroman/definitive-image-comparison-slider
       $(document).ready(function () {
         new Dics({
-          container: document.querySelector('.b-dics'),
+          container: document.querySelector('#dics-main'),
           hideTexts: true,
           textPosition: 'top',
-					linesColor: 'rgb(52,152,219)'
+          linesColor: 'rgb(52,152,219)',
+        });
+
+        new Dics({
+          container: document.querySelector('#dics-sample1'),
+          hideTexts: true,
+          textPosition: 'top',
+          linesColor: 'rgb(52,152,219)',
+        });
+        new Dics({
+          container: document.querySelector('#dics-sample2'),
+          hideTexts: true,
+          textPosition: 'top',
+          linesColor: 'rgb(52,152,219)',
         });
       });
     </script>

@@ -90,15 +90,61 @@ web site 4 image studio - various versions
   - [ ] layout dorada
   - [ ] projekti
     - [ ] projekt 1 - bicikl
+      - [x] naslov
+      - [ ] podnaslov
+      - [x] slike
+      - [ ] ikone
+      - [ ] popratni tekst
+      - [x] koraci / ikone / slike - razrada
     - [ ] projekt 2 - dairy
-      - [ ] dodati 5. sliku - cutout
-    - [ ] projekt 3 - soba
-      - [ ] izbaciti 2 slike da ih bude 5
-    - [ ] projekt 4 - vrtni
-    - [ ] projekt 5 - ???
-    - [ ] projekt 6 - ???
-    - [ ] projekt 7 - ???
-    - [ ] projekt 8 - ???
+      - [x] naslov
+      - [ ] podnaslov
+      - [x] slike
+      - [ ] ikone
+      - [ ] popratni tekst
+      - [x] koraci / ikone / slike - razrada
+    - [ ] projekt 3 - maca
+      - [x] naslov
+      - [ ] podnaslov
+      - [x] slike
+      - [ ] ikone
+      - [ ] popratni tekst
+      - [x] koraci / ikone / slike - razrada
+    - [ ] projekt 4 - rasvjeta
+      - [x] naslov
+      - [ ] podnaslov
+      - [x] slike
+      - [ ] ikone
+      - [ ] popratni tekst
+      - [x] koraci / ikone / slike - razrada
+    - [ ] projekt 5 - soba
+      - [x] naslov
+      - [ ] podnaslov
+      - [x] slike
+      - [ ] ikone
+      - [ ] popratni tekst
+      - [x] koraci / ikone / slike - razrada
+    - [ ] projekt 6 - vrtni
+      - [x] naslov
+      - [ ] podnaslov
+      - [x] slike
+      - [ ] ikone
+      - [ ] popratni tekst
+      - [x] koraci / ikone / slike - razrada
+    - [ ] projekt 7 - jastuk
+      - [x] naslov
+      - [ ] podnaslov
+      - [x] slike
+      - [ ] ikone
+      - [ ] popratni tekst
+      - [x] koraci / ikone / slike - razrada
+    - [ ] projekt 8 - auto
+      - [x] naslov
+      - [ ] podnaslov
+      - [x] slike
+      - [ ] ikone
+      - [ ] popratni tekst
+      - [x] koraci / ikone / slike - razrada
 - [ ] Kontakt
   - [ ] e-mail sa stranice završava u karanteni (Krešo vidio, zna kak do karantene)
 - [x] Karta
