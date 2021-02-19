@@ -52,7 +52,7 @@ web site 4 image studio - various versions
     - [x] layout
     - [x] glavna grafika mockup
     - [ ] tekst opisa (slike prodaju proizvode...)
-    - [ ] proizvodi before / after (8 komada)
+    - [x] proizvodi before / after (8 komada)
   - [ ] grafičko oblikovanje
     - [ ] layout
     - [ ] glavna grafika mockup
@@ -92,14 +92,18 @@ web site 4 image studio - various versions
     - [ ] projekt 1 - bicikl
       - [x] naslov
       - [ ] podnaslov
-      - [x] slike
+      - [ ] slike
+        - [ ] nove verzije obje pocetne slike
+        - [x] pogorsana 1 fotka
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
     - [ ] projekt 2 - dairy
       - [x] naslov
       - [ ] podnaslov
-      - [x] slike
+      - [ ] slike
+        - [ ] nove verzije obje pocetne slike
+        - [x] pogorsana 1 fotka
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
@@ -107,6 +111,8 @@ web site 4 image studio - various versions
       - [x] naslov
       - [ ] podnaslov
       - [x] slike
+        - [ ] nove verzije obje pocetne slike
+        - [x] pogorsana 1 fotka
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
@@ -120,28 +126,36 @@ web site 4 image studio - various versions
     - [ ] projekt 5 - soba
       - [x] naslov
       - [ ] podnaslov
-      - [x] slike
+      - [ ] slike
+        - [ ] nove verzije obje pocetne slike
+        - [ ] pogorsana 1 fotka
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
     - [ ] projekt 6 - vrtni
       - [x] naslov
       - [ ] podnaslov
-      - [x] slike
+      - [ ] slike
+        - [ ] nove verzije obje pocetne slike
+        - [ ] pogorsana 1 fotka
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
     - [ ] projekt 7 - jastuk
       - [x] naslov
       - [ ] podnaslov
-      - [x] slike
+      - [ ] slike
+        - [ ] nove verzije obje pocetne slike
+        - [x] pogorsana 1 fotka
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
     - [ ] projekt 8 - auto
       - [x] naslov
       - [ ] podnaslov
-      - [x] slike
+      - [ ] slike
+        - [ ] nove verzije obje pocetne slike
+        - [x] pogorsana 1 fotka
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
