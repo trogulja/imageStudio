@@ -1,8 +1,83 @@
-# imageStudio
+# Materijali (Karlo)
+- [ ] Usluge
+  - [x] e-commerce
+    - [x] mockup
+    - [x] before/after elementi
+  - [ ] retouch
+    - [ ] mockup
+    - [ ] before/after elementi
+  - [ ] obrada+
+   - [ ] mockup
+   - [ ] before/after elementi
+  - [ ] montaže
+    - [ ] mockup
+    - [ ] before/after elementi
+- [ ] Portfolio
+  - [ ] p1 - bicikl
+    - [ ] nova verzija sa okvirom početne slike
+    - [ ] nova verzija bez okvira početne slike
+  - [ ] p2 - dairy
+    - [ ] nova verzija sa okvirom početne slike
+    - [ ] nova verzija bez okvira početne slike
+  - [ ] p3 - maca
+    - [ ] nova verzija sa okvirom početne slike
+    - [ ] nova verzija bez okvira početne slike
+  - [ ] p5 - soba
+    - [ ] pogorsana verzija 1. slike (nije uploadano)
+    - [ ] nova verzija sa okvirom početne slike
+    - [ ] nova verzija bez okvira početne slike
+  - [ ] p6 - vrtni
+    - [ ] pogorsana verzija 1. slike (nije uploadano)
+    - [ ] nova verzija sa okvirom početne slike
+    - [ ] nova verzija bez okvira početne slike
+  - [ ] p7 - jastuk
+    - [ ] nova verzija sa okvirom početne slike
+    - [ ] nova verzija bez okvira početne slike
+  - [ ] p8 - auto
+    - [ ] nova verzija sa okvirom početne slike
+    - [ ] nova verzija bez okvira početne slike
 
-web site 4 image studio - various versions
+# Odobrenja / odluke (Dejan)
+- [ ] Navigacija
+  - [ ] opaska vezana uz naslov: "Hoce li u naslovu biti jos nesto osim otvorene zagrade? Jer mi je malo nedorecena i kao da ne znam na kojoj se stranici nalazim..."
+- [ ] Tim
+  - [ ] Odobrenje kolege da može na web + rečenica o sebi koja ide ispod slike
+    - [ ] Dejan
+    - [ ] Majda
+    - [ ] Karlo
+    - [ ] Silvija
+    - [ ] Andrea
+    - [ ] Krešo
+    - [ ] Nataša
+    - [ ] Božica
+    - [x] Tibor
+  - [ ] Naša specijalnost
+    - [ ] odluka što s tim... da li se miče ili transformira u nešto drugo
+- [ ] Klijenti (testimonials)
+  - [ ] 1. klijent (ime i funkcija, citat)
+  - [ ] 2. klijent (ime i funkcija, citat)
+  - [ ] 3. klijent (ime i funkcija, citat)
+  - [ ] 4. klijent (ime i funkcija, citat)
+- [ ] Usluge
+  - [ ] grafičko oblikovanje
+    - [ ] odobrenje mockupa
+    - [ ] odobrenje izbora stranica
+  - [ ] prepress
+    - [ ] idejno rješenje
+  - [ ] retouch
+    - [ ] odobrenje mockupa
+    - [ ] odobrenje izbora slike
+  - [ ] obrada+
+    - [ ] odobrenje mockupa
+    - [ ] izbor stranice
+    - [ ] izbor slika za obradu
+  - [ ] montaže
+    - [ ] odobrenje mockupa
+    - [ ] idejno rješenje
+- [ ] Poruke
+  - [ ] definirati što točno ide ovdje (koje poruke i da li poruke)
 
-# todo
+# ToDo - pregled svega
 
 - [x] Navigacija
 - [ ] Hero
@@ -20,18 +95,7 @@ web site 4 image studio - various versions
     - [x] provjeriti kontrast brojki koje se vrte
     - [x] zamijeniti ikone relevantnim svgovima (trenutno png)
 - [ ] Tim
-  - [ ] odobrenje kolega (tko želi, a tko ne)
   - [ ] citati - rečenica ili dvije teksta - svatko o sebi izmisliti (ako želi bit gore)
-    - [ ] Dejan
-    - [ ] Majda
-    - [ ] Karlo
-    - [ ] Silvija
-    - [ ] Andrea
-    - [ ] Krešo
-    - [ ] Nataša
-    - [ ] Božica
-    - [x] Tibor
-  - [ ] linkovi - na e-mail + ako želi na još nešto
     - [ ] Dejan
     - [ ] Majda
     - [ ] Karlo
