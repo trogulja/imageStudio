@@ -7,8 +7,8 @@
     - [ ] mockup
     - [ ] before/after elementi
   - [ ] obrada+
-   - [ ] mockup
-   - [ ] before/after elementi
+    - [ ] mockup
+    - [ ] before/after elementi
   - [ ] montaže
     - [ ] mockup
     - [ ] before/after elementi
@@ -34,12 +34,15 @@
     - [ ] nova verzija sa okvirom početne slike
     - [ ] nova verzija bez okvira početne slike
   - [ ] p8 - auto
+    - [ ] bluran background kao jedan od koraka
     - [ ] nova verzija sa okvirom početne slike
     - [ ] nova verzija bez okvira početne slike
 
 # Odobrenja / odluke (Dejan)
 - [ ] Navigacija
   - [ ] opaska vezana uz naslov: "Hoce li u naslovu biti jos nesto osim otvorene zagrade? Jer mi je malo nedorecena i kao da ne znam na kojoj se stranici nalazim..."
+- [ ] Hero
+  - [ ] dužina teksta "ecommerce fotografija" i "profesionalna fotografija proizvoda za web stranice" bi trebala bit podjednake duljine
 - [ ] Tim
   - [ ] Odobrenje kolege da može na web + rečenica o sebi koja ide ispod slike
     - [ ] Dejan
@@ -159,6 +162,7 @@
       - [ ] slike
         - [ ] nove verzije obje pocetne slike
         - [x] pogorsana 1 fotka
+      - [x] slike alt opis na hrv
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
@@ -168,6 +172,7 @@
       - [ ] slike
         - [ ] nove verzije obje pocetne slike
         - [x] pogorsana 1 fotka
+      - [ ] slike alt opis na hrv
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
@@ -177,6 +182,7 @@
       - [x] slike
         - [ ] nove verzije obje pocetne slike
         - [x] pogorsana 1 fotka
+      - [ ] slike alt opis na hrv
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
@@ -184,6 +190,7 @@
       - [x] naslov
       - [ ] podnaslov
       - [x] slike
+      - [ ] slike alt opis na hrv
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
@@ -193,6 +200,7 @@
       - [ ] slike
         - [ ] nove verzije obje pocetne slike
         - [ ] pogorsana 1 fotka
+      - [ ] slike alt opis na hrv
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
@@ -202,6 +210,7 @@
       - [ ] slike
         - [ ] nove verzije obje pocetne slike
         - [ ] pogorsana 1 fotka
+      - [ ] slike alt opis na hrv
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
@@ -211,6 +220,7 @@
       - [ ] slike
         - [ ] nove verzije obje pocetne slike
         - [x] pogorsana 1 fotka
+      - [ ] slike alt opis na hrv
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
@@ -220,11 +230,14 @@
       - [ ] slike
         - [ ] nove verzije obje pocetne slike
         - [x] pogorsana 1 fotka
+      - [ ] slike alt opis na hrv
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
 - [ ] Kontakt
   - [ ] e-mail sa stranice završava u karanteni (Krešo vidio, zna kak do karantene)
+  - [x] promjena kontakt broja
+  - [x] email tekst u kurent
 - [x] Karta
   - [x] pin pokazuje na krivu zgradu, promijeniti to
 - [x] Footer

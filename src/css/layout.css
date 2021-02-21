@@ -2123,12 +2123,12 @@ ul.slimmenu.collapsed li > ul {
 #separ2 h6 {
   color: #fff;
   margin-bottom: 20px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 #separ2 h3 {
   color: #fff;
   margin-top: 20px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 #separ2 h1 {
   padding-top: 20px;
