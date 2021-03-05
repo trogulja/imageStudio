@@ -9,9 +9,9 @@
   - [ ] obrada+
     - [ ] mockup
     - [ ] before/after elementi
-  - [ ] montaže
-    - [ ] mockup
-    - [ ] before/after elementi
+  - [x] montaže
+    - [x] mockup
+    - [x] before/after elementi
 - [ ] Portfolio
   - [x] p1 - bicikl
   - [ ] p2 - dairy
@@ -216,9 +216,7 @@
 - [x] layout
 - [x] glavna grafika mockup (smisliti)
 - [x] tekst opisa (smisliti)
-- [ ] primjeri obrade before / after (4-8 komada)
-  - [ ] možda elementi od kojih je sastavljeno?
-  - [ ] možda screen recording timelaps sastavljanja?
+- [x] primjeri obrade before / after (4-8 komada)
 
 ## u4.html - obrada+ ai
 - [x] layout
