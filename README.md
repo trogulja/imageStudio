@@ -3,9 +3,9 @@
   - [x] e-commerce
     - [x] mockup
     - [x] before/after elementi
-  - [ ] retouch
-    - [ ] mockup
-    - [ ] before/after elementi
+  - [x] retouch
+    - [x] mockup
+    - [x] before/after elementi
   - [ ] obrada+
     - [ ] mockup
     - [ ] before/after elementi
@@ -13,30 +13,19 @@
     - [ ] mockup
     - [ ] before/after elementi
 - [ ] Portfolio
-  - [ ] p1 - bicikl
-    - [ ] nova verzija sa okvirom početne slike
-    - [ ] nova verzija bez okvira početne slike
+  - [x] p1 - bicikl
   - [ ] p2 - dairy
-    - [ ] nova verzija sa okvirom početne slike
-    - [ ] nova verzija bez okvira početne slike
-  - [ ] p3 - maca
-    - [ ] nova verzija sa okvirom početne slike
-    - [ ] nova verzija bez okvira početne slike
-  - [ ] p5 - soba
-    - [ ] pogorsana verzija 1. slike (nije uploadano)
-    - [ ] nova verzija sa okvirom početne slike
-    - [ ] nova verzija bez okvira početne slike
-  - [ ] p6 - vrtni
-    - [ ] pogorsana verzija 1. slike (nije uploadano)
-    - [ ] nova verzija sa okvirom početne slike
-    - [ ] nova verzija bez okvira početne slike
-  - [ ] p7 - jastuk
-    - [ ] nova verzija sa okvirom početne slike
-    - [ ] nova verzija bez okvira početne slike
+    - [ ] nova verzija sa okvirom početne slike (drugačiji su elementi)
+    - [ ] nova verzija bez okvira početne slike (drugačiji su elementi)
+  - [x] p3 - maca
+  - [x] p4 - rasvjeta
+  - [x] p5 - soba
+  - [x] p6 - vrtni
+  - [x] p7 - jastuk
   - [ ] p8 - auto
-    - [ ] bluran background kao jedan od koraka
-    - [ ] nova verzija sa okvirom početne slike
-    - [ ] nova verzija bez okvira početne slike
+    - [x] bluran background kao jedan od koraka
+    - [ ] nova verzija sa okvirom početne slike (sa bluranim elementom)
+    - [ ] nova verzija bez okvira početne slike (sa bluranim elementom)
 
 # Odobrenja / odluke (Dejan)
 - [ ] Navigacija
@@ -79,12 +68,15 @@
     - [ ] idejno rješenje
 - [ ] Poruke
   - [ ] definirati što točno ide ovdje (koje poruke i da li poruke)
+- [ ] Portfolio
+  - [ ] tekst na glavnoj slici
 
 # ToDo - pregled svega
+## index.html
 
 - [x] Navigacija
 - [ ] Hero
-  - [ ] Naslov
+  - [x] Naslov
     - [x] js text rotator bolja verzija
     - [ ] margine da ne prelazi preko slike
     - [ ] dužina teksta koji se rotira mora bit ista
@@ -116,37 +108,43 @@
   - [ ] citati klijenata
 - [ ] Usluge
   - [ ] e-commerce
+    - [ ] logo na početnoj stranici
     - [x] layout
     - [x] glavna grafika mockup
-    - [ ] tekst opisa (slike prodaju proizvode...)
+    - [x] tekst opisa (slike prodaju proizvode...)
     - [x] proizvodi before / after (8 komada)
-  - [ ] grafičko oblikovanje
-    - [ ] layout
-    - [ ] glavna grafika mockup
-    - [ ] tekst opisa (za koga smo radili, što smo radili, da li su bili neki izazovi...)
-    - [ ] primjeri stranica (4-8 komada)
-  - [ ] prepress
-    - [ ] layout
-    - [ ] glavna grafika smislit mockup
-    - [ ] tekst opisa (izazovi, problemi sa strojevima zbog previse boje...)
-    - [ ] stranice before/after
   - [ ] retouch
-    - [ ] layout
+    - [ ] logo na početnoj stranici
+    - [x] layout
     - [ ] glavna grafika mockup (smisliti)
-    - [ ] tekst opisa (smisliti)
+    - [x] tekst opisa (smisliti)
     - [ ] primjeri obrade before / after (4-8 komada)
-  - [ ] obrada+
-    - [ ] layout
-    - [ ] glavna grafika mockup (novine)
-    - [ ] tekst opisa (gdje i kako pomaze AI, ubrzavanje procesa, ljudska kontrola)
-    - [ ] primjeri obrade before/after (8 komada)
   - [ ] montaže
-    - [ ] layout
+    - [ ] logo na početnoj stranici
+    - [x] layout
     - [ ] glavna grafika mockup (smisliti)
-    - [ ] tekst opisa (smisliti)
+    - [x] tekst opisa (smisliti)
     - [ ] primjeri obrade before / after (4-8 komada)
       - [ ] možda elementi od kojih je sastavljeno?
       - [ ] možda screen recording timelaps sastavljanja?
+  - [ ] obrada+
+    - [ ] logo na početnoj stranici
+    - [x] layout
+    - [ ] glavna grafika mockup (novine)
+    - [x] tekst opisa (gdje i kako pomaze AI, ubrzavanje procesa, ljudska kontrola)
+    - [ ] primjeri obrade before/after (8 komada)
+  - [ ] prepress
+    - [ ] logo na početnoj stranici
+    - [x] layout
+    - [ ] glavna grafika smislit mockup
+    - [x] tekst opisa (izazovi, problemi sa strojevima zbog previse boje...)
+    - [ ] stranice before/after
+  - [ ] grafičko oblikovanje
+    - [ ] logo na početnoj stranici
+    - [x] layout
+    - [ ] glavna grafika mockup
+    - [x] tekst opisa (za koga smo radili, što smo radili, da li su bili neki izazovi...)
+    - [ ] primjeri stranica (4-8 komada)
 - [ ] Poruke
   - [ ] ikonu promijenit na e-mail
   - [ ] css popravit case
@@ -159,8 +157,8 @@
     - [ ] projekt 1 - bicikl
       - [x] naslov
       - [ ] podnaslov
-      - [ ] slike
-        - [ ] nove verzije obje pocetne slike
+      - [x] slike
+        - [x] nove verzije obje pocetne slike
         - [x] pogorsana 1 fotka
       - [x] slike alt opis na hrv
       - [ ] ikone
@@ -180,7 +178,7 @@
       - [x] naslov
       - [ ] podnaslov
       - [x] slike
-        - [ ] nove verzije obje pocetne slike
+        - [x] nove verzije obje pocetne slike
         - [x] pogorsana 1 fotka
       - [ ] slike alt opis na hrv
       - [ ] ikone
@@ -197,19 +195,19 @@
     - [ ] projekt 5 - soba
       - [x] naslov
       - [ ] podnaslov
-      - [ ] slike
-        - [ ] nove verzije obje pocetne slike
-        - [ ] pogorsana 1 fotka
+      - [x] slike
+        - [x] nove verzije obje pocetne slike
+        - [x] pogorsana 1 fotka
       - [ ] slike alt opis na hrv
       - [ ] ikone
       - [ ] popratni tekst
       - [x] koraci / ikone / slike - razrada
     - [ ] projekt 6 - vrtni
       - [x] naslov
-      - [ ] podnaslov
-      - [ ] slike
-        - [ ] nove verzije obje pocetne slike
-        - [ ] pogorsana 1 fotka
+      - [x] podnaslov
+      - [x] slike
+        - [x] nove verzije obje pocetne slike
+        - [x] pogorsana 1 fotka
       - [ ] slike alt opis na hrv
       - [ ] ikone
       - [ ] popratni tekst
@@ -217,8 +215,8 @@
     - [ ] projekt 7 - jastuk
       - [x] naslov
       - [ ] podnaslov
-      - [ ] slike
-        - [ ] nove verzije obje pocetne slike
+      - [x] slike
+        - [x] nove verzije obje pocetne slike
         - [x] pogorsana 1 fotka
       - [ ] slike alt opis na hrv
       - [ ] ikone

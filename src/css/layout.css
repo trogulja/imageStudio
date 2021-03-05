@@ -900,7 +900,7 @@ html.ie9 .holeIn {
 .cbp-af-header.cbp-af-header-shrink .logo {
   width: 75px;
   height: 62px;
-  background: url('../images/logo-styria.svg') no-repeat center center;
+  background: url('../images/logo-styria-full.svg') no-repeat center center;
   background-size: 80px 65px;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
@@ -919,13 +919,13 @@ html.ie9 .holeIn {
 
 .logo {
   position: absolute;
-  width: 100px;
-  height: 81px;
+  width: 150px;
+  height: 61px;
   z-index: 10000;
   left: 10px;
   top: 10px;
-  background: url('../images/logo-styria.svg') no-repeat center center;
-  background-size: 100px 81px;
+  background: url('../images/logo-styria-full.svg') no-repeat center center;
+  background-size: 130px 53px;
 }
 
 .menu-collapser {
@@ -2947,6 +2947,78 @@ textarea {
   margin: 0 1em 1em 0;
 }
 
+/* #Usluge
+================================================== */
+#usluge {
+  position: relative;
+  width: 100%;
+  background: #fff;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  overflow: hidden;
+  margin: 0 auto;
+  z-index: 2;
+}
+
+#usluge h2 {
+  padding-bottom: 30px;
+}
+#usluge h6 {
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 0.5em;
+}
+#usluge p {
+  text-align: left;
+}
+
+#usluge .bx-wrapper .bx-prev {
+  left: 0;
+  margin-left: 40px;
+  bottom: 50%;
+  margin-bottom: -20px;
+  background: rgba(0, 0, 0, 0.4) url(../images/arr1.png) no-repeat center center;
+  background-size: 15px 15px;
+}
+
+#usluge .bx-wrapper .bx-next {
+  right: 0;
+  margin-right: 40px;
+  bottom: 50%;
+  margin-bottom: -20px;
+  background: rgba(0, 0, 0, 0.4) url(../images/arr2.png) no-repeat center center;
+  background-size: 15px 15px;
+}
+
+#usluge .bx-wrapper .bx-controls-direction a {
+  width: 40px;
+  height: 40px;
+}
+
+#usluge a:focus {
+  outline: none;
+}
+
+#usluge .four, #usluge .four h3 {
+  text-align: right;
+}
+
+#usluge li {
+  list-style-type: circle;
+  text-align: left;
+  /* direction: rtl; */
+  padding: 0;
+  margin: 0 0 0.4em 2em;
+}
+
+#usluge .sep1em {
+  margin-bottom: 1em;
+}
+
+#usluge .sep2em {
+  margin-bottom: 2em;
+}
+
 /* #Blog
 ================================================== */
 
@@ -3112,10 +3184,10 @@ textarea {
     background: rgba(255, 255, 255, 0.7);
   }
   .logo {
-    width: 75px;
-    height: 60px;
-    background: url('../images/logo-styria.svg') no-repeat center center;
-    background-size: 75px 60px;
+    width: 150px;
+    height: 61px;
+    background: url('../images/logo-styria-full.svg') no-repeat center center;
+    background-size: 150px 61px;
   }
 }
 
