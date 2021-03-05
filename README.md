@@ -208,13 +208,13 @@
 
 ## u2.html - retouch
 - [x] layout
-- [ ] glavna grafika mockup (smisliti)
+- [x] glavna grafika mockup (smisliti)
 - [x] tekst opisa (smisliti)
-- [ ] primjeri obrade before / after (4-8 komada)
+- [x] primjeri obrade before / after (4-8 komada)
 
 ## u3.html - montaže / crtanje
 - [x] layout
-- [ ] glavna grafika mockup (smisliti)
+- [x] glavna grafika mockup (smisliti)
 - [x] tekst opisa (smisliti)
 - [ ] primjeri obrade before / after (4-8 komada)
   - [ ] možda elementi od kojih je sastavljeno?
@@ -222,7 +222,7 @@
 
 ## u4.html - obrada+ ai
 - [x] layout
-- [ ] glavna grafika mockup (novine)
+- [x] glavna grafika mockup (novine)
 - [x] tekst opisa (gdje i kako pomaze AI, ubrzavanje procesa, ljudska kontrola)
 - [ ] primjeri obrade before/after (8 komada)
 
