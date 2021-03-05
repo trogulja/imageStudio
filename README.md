@@ -77,15 +77,15 @@
 ## index.html
 
 - [x] Navigacija
-- [ ] Hero
+- [x] Hero
   - [x] Naslov
     - [x] js text rotator bolja verzija
-    - [ ] margine da ne prelazi preko slike
-    - [ ] dužina teksta koji se rotira mora bit ista
-    - [ ] novi tekstovi koji se rotiraju
-  - [ ] Podnaslov
-    - [ ] margine da ne prelazi preko slike
-    - [ ] dodat u podnaslove koji se rotiraju
+    - [x] margine da ne prelazi preko slike
+    - [x] dužina teksta koji se rotira mora bit ista
+    - [x] novi tekstovi koji se rotiraju
+  - [x] Podnaslov
+    - [x] margine da ne prelazi preko slike
+    - [x] dodat u podnaslove koji se rotiraju
   - [x] E-commerce dio
     - [x] relevantna slika monitora (web shop!)
 - [x] O nama
@@ -110,37 +110,37 @@
   - [ ] logotipi klijenata
   - [ ] imena klijenata i njihove funkcije
   - [ ] citati klijenata
-- [ ] Usluge
-  - [ ] web trgovina
-    - [ ] ikona
-    - [ ] entry animacija
+- [x] Usluge
+  - [x] web trgovina
+    - [x] ikona
+    - [x] entry animacija
     - [x] overlay naslov
-    - [ ] overlay podnaslov - skratiti
-  - [ ] retouch
-    - [ ] ikona
-    - [ ] entry animacija
-    - [x] overlay naslov
-    - [x] overlay podnaslov
-  - [ ] montaže / crtanje
-    - [ ] ikona
-    - [ ] entry animacija
-    - [x] overlay naslov
-    - [ ] overlay podnaslov - skratiti
-  - [ ] obrada+
-    - [ ] ikona
-    - [ ] entry animacija
+    - [x] overlay podnaslov - skratiti
+  - [x] retouch
+    - [x] ikona
+    - [x] entry animacija
     - [x] overlay naslov
     - [x] overlay podnaslov
-  - [ ] prepress
-    - [ ] ikona
-    - [ ] entry animacija
+  - [x] montaže / crtanje
+    - [x] ikona
+    - [x] entry animacija
+    - [x] overlay naslov
+    - [x] overlay podnaslov - skratiti
+  - [x] obrada+
+    - [x] ikona
+    - [x] entry animacija
     - [x] overlay naslov
     - [x] overlay podnaslov
-  - [ ] grafičko oblikovanje
-    - [ ] ikona
-    - [ ] entry animacija
+  - [x] prepress
+    - [x] ikona
+    - [x] entry animacija
     - [x] overlay naslov
-    - [ ] overlay podnaslov - skratiti
+    - [x] overlay podnaslov
+  - [x] grafičko oblikovanje
+    - [x] ikona
+    - [x] entry animacija
+    - [x] overlay naslov
+    - [x] overlay podnaslov - skratiti
 - [ ] Pricing tables
   - [ ] smisliti / odrediti što s ovim
 - [ ] Poruke
@@ -148,57 +148,57 @@
   - [x] css popravit case
   - [ ] odredit koje poruke idu gore (pohvale / naručivanja / nešto treće)
 - [ ] Portfolio
-    - [ ] projekt 1 - bicikl
-      - [ ] naslov revizija
-      - [ ] podnaslov
+    - [x] projekt 1 - bicikl
+      - [x] naslov revizija
+      - [x] podnaslov
       - [x] slika sa okvirom
       - [x] slika bez okvira
     - [ ] projekt 2 - dairy
-      - [ ] naslov revizija
-      - [ ] podnaslov
+      - [x] naslov revizija
+      - [x] podnaslov
       - [ ] slika sa okvirom
       - [ ] slika bez okvira
-    - [ ] projekt 3 - maca
-      - [ ] naslov revizija
-      - [ ] podnaslov
+    - [x] projekt 3 - maca
+      - [x] naslov revizija
+      - [x] podnaslov
       - [x] slika sa okvirom
       - [x] slika bez okvira
-    - [ ] projekt 4 - rasvjeta
-      - [ ] naslov revizija
-      - [ ] podnaslov
+    - [x] projekt 4 - rasvjeta
+      - [x] naslov revizija
+      - [x] podnaslov
       - [x] slika sa okvirom
       - [x] slika bez okvira
-    - [ ] projekt 5 - soba
-      - [ ] naslov revizija
-      - [ ] podnaslov
+    - [x] projekt 5 - soba
+      - [x] naslov revizija
+      - [x] podnaslov
       - [x] slika sa okvirom
       - [x] slika bez okvira
-    - [ ] projekt 6 - vrtni
-      - [ ] naslov revizija
-      - [ ] podnaslov
+    - [x] projekt 6 - vrtni
+      - [x] naslov revizija
+      - [x] podnaslov
       - [x] slika sa okvirom
       - [x] slika bez okvira
-    - [ ] projekt 7 - jastuk
-      - [ ] naslov revizija
-      - [ ] podnaslov
+    - [x] projekt 7 - jastuk
+      - [x] naslov revizija
+      - [x] podnaslov
       - [x] slika sa okvirom
       - [x] slika bez okvira
     - [ ] projekt 8 - auto
-      - [ ] naslov revizija
-      - [ ] podnaslov
+      - [x] naslov revizija
+      - [x] podnaslov
       - [ ] slika sa okvirom
       - [ ] slika bez okvira
-- [ ] call to action big button
-  - [ ] naslov
-  - [ ] podnaslov
+- [x] call to action big button
+  - [x] naslov
+  - [x] podnaslov
 - [ ] Kontakt
   - [ ] e-mail sa stranice završava u karanteni (Krešo vidio, zna kak do karantene)
   - [x] promjena kontakt broja
   - [x] email tekst u kurent
 - [x] Karta
   - [x] pin pokazuje na krivu zgradu, promijeniti to
-- [ ] Footer
-  - [ ] puni logo
+- [x] Footer
+  - [x] puni logo
 
 ## u1.html - web trgovina
 - [x] layout
@@ -240,48 +240,48 @@
 
 ## p1.html - bicikl
 - [x] slike alt opis na hrv
-- [ ] ikone
-- [ ] popratni tekst
+- [x] povuci ovdje
+- [x] ikone
 - [x] koraci / ikone / slike - razrada
 
 ## p2.html - dairy
-- [ ] slike alt opis na hrv
-- [ ] ikone
-- [ ] popratni tekst
+- [x] slike alt opis na hrv
+- [x] povuci ovdje
+- [x] ikone
 - [x] koraci / ikone / slike - razrada
 
 ## p3.html - maca
-- [ ] slike alt opis na hrv
-- [ ] ikone
-- [ ] popratni tekst
+- [x] slike alt opis na hrv
+- [x] povuci ovdje
+- [x] ikone
 - [x] koraci / ikone / slike - razrada
 
 ## p4.html - rasvjeta
-- [ ] slike alt opis na hrv
-- [ ] ikone
-- [ ] popratni tekst
+- [x] slike alt opis na hrv
+- [x] povuci ovdje
+- [x] ikone
 - [x] koraci / ikone / slike - razrada
 
 ## p5.html - soba
-- [ ] slike alt opis na hrv
-- [ ] ikone
-- [ ] popratni tekst
+- [x] slike alt opis na hrv
+- [x] povuci ovdje
+- [x] ikone
 - [x] koraci / ikone / slike - razrada
 
 ## p6.html - vrtni
-- [ ] slike alt opis na hrv
-- [ ] ikone
-- [ ] popratni tekst
+- [x] slike alt opis na hrv
+- [x] povuci ovdje
+- [x] ikone
 - [x] koraci / ikone / slike - razrada
 
 ## p7.html - jastuk
-- [ ] slike alt opis na hrv
-- [ ] ikone
-- [ ] popratni tekst
+- [x] slike alt opis na hrv
+- [x] povuci ovdje
+- [x] ikone
 - [x] koraci / ikone / slike - razrada
 
 ## p8.html - auto
-- [ ] slike alt opis na hrv
-- [ ] ikone
-- [ ] popratni tekst
+- [x] slike alt opis na hrv
+- [x] povuci ovdje
+- [x] ikone
 - [x] koraci / ikone / slike - razrada

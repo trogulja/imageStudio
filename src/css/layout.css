@@ -1138,7 +1138,14 @@ ul.slimmenu.collapsed li > ul {
 }
 .home-text p span {
   padding-top: 10px;
-  border-top: 1px solid rgba(0, 0, 0, 0.4);
+  /* border-top: 1px solid rgba(0, 0, 0, 0.4); */
+}
+.boxwords {
+  text-transform: none;
+  border: 0 !important;
+}
+.home-text #rotator2 {
+  padding-right: 40%;
 }
 
 .arrow-wrap {
@@ -2814,8 +2821,8 @@ textarea {
   line-height: 22px;
 }
 #footer img {
-  width: 70px;
-  height: 58px;
+  width: 150px;
+  height: 61px;
   display: block;
 }
 #footer a {
@@ -2858,6 +2865,13 @@ textarea {
   /* width: 100%; */
   /* height:auto; */
   /* display:block; */
+}
+#project .povuci-me {
+  /* 529 x 138 */
+  width: 200px;
+  height: 52px;
+  background: url('../images/povuci_me.svg') no-repeat center center;
+  background-size: 200px 52px;
 }
 #project h2 {
   padding-bottom: 30px;
@@ -2935,8 +2949,11 @@ textarea {
   height: 150px;
 }
 
-#project .four, #project .four h3 {
+#project .four,
+#project .four h3 {
   text-align: right;
+  margin-bottom: 1em;
+  margin-top: 0.5em;
 }
 
 #project li {
@@ -2945,6 +2962,11 @@ textarea {
   direction: rtl;
   /* padding: 0 1em 1em 0; */
   margin: 0 1em 1em 0;
+}
+
+#project .ikone {
+  text-align: right;
+  margin-bottom: 8em;
 }
 
 /* #Usluge
@@ -2999,7 +3021,8 @@ textarea {
   outline: none;
 }
 
-#usluge .four, #usluge .four h3 {
+#usluge .four,
+#usluge .four h3 {
   text-align: right;
 }
 

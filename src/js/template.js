@@ -148,6 +148,18 @@ $(document).ready(function () {
     onChange: false, // Function
     onComplete: false, // Function
   });
+  var replace2 = new ReplaceMe(document.querySelector('#rotator2 .boxwords'), {
+    animation: 'animate__animated animate__fadeInUp animate__slow', // Animation class or classes
+    speed: 6000, // Delay between each phrase in miliseconds
+    separator: ';', // Phrases separator
+    hoverStop: false, // Stop rotator on phrase hover
+    clickChange: false, // Change phrase on click
+    loopCount: 'infinite', // Loop Count - 'infinite' or number
+    autoRun: true, // Run rotator automatically
+    onInit: false, // Function
+    onChange: false, // Function
+    onComplete: false, // Function
+  })
 });
 
 //Home Background Slider
