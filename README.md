@@ -1,44 +1,12 @@
-# Materijali (Karlo)
-- [ ] Usluge
-  - [x] e-commerce
-    - [x] mockup
-    - [x] before/after elementi
-  - [x] retouch
-    - [x] mockup
-    - [x] before/after elementi
-  - [ ] obrada+
-    - [ ] mockup
-    - [ ] before/after elementi
-  - [x] montaže
-    - [x] mockup
-    - [x] before/after elementi
-- [ ] Portfolio
-  - [x] p1 - bicikl
-  - [ ] p2 - dairy
-    - [ ] nova verzija sa okvirom početne slike (drugačiji su elementi)
-    - [ ] nova verzija bez okvira početne slike (drugačiji su elementi)
-  - [x] p3 - maca
-  - [x] p4 - rasvjeta
-  - [x] p5 - soba
-  - [x] p6 - vrtni
-  - [x] p7 - jastuk
-  - [ ] p8 - auto
-    - [x] bluran background kao jedan od koraka
-    - [ ] nova verzija sa okvirom početne slike (sa bluranim elementom)
-    - [ ] nova verzija bez okvira početne slike (sa bluranim elementom)
 
 # Odobrenja / odluke (Dejan)
-- [x] Navigacija
-  - [x] opaska vezana uz naslov: "Hoce li u naslovu biti jos nesto osim otvorene zagrade? Jer mi je malo nedorecena i kao da ne znam na kojoj se stranici nalazim..."
-- [x] Hero
-  - [x] dužina teksta "ecommerce fotografija" i "profesionalna fotografija proizvoda za web stranice" bi trebala bit podjednake duljine
 - [ ] Tim
   - [ ] Odobrenje kolege da može na web + rečenica o sebi koja ide ispod slike
     - [ ] Dejan
     - [ ] Majda
     - [ ] Karlo
-    - [ ] Silvija
-    - [ ] Andrea
+    - [x] Silvija
+    - [x] Andrea
     - [ ] Krešo
     - [ ] Nataša
     - [ ] Božica
@@ -50,28 +18,44 @@
   - [ ] 2. klijent (ime i funkcija, citat)
   - [ ] 3. klijent (ime i funkcija, citat)
   - [ ] 4. klijent (ime i funkcija, citat)
-- [ ] Usluge
-  - [ ] grafičko oblikovanje
-    - [ ] odobrenje mockupa
-    - [ ] odobrenje izbora stranica
-  - [ ] prepress
-    - [ ] idejno rješenje
-  - [ ] retouch
-    - [ ] odobrenje mockupa
-    - [ ] odobrenje izbora slike
-  - [ ] obrada+
-    - [ ] odobrenje mockupa
-    - [ ] izbor stranice
-    - [ ] izbor slika za obradu
-  - [ ] montaže
-    - [ ] odobrenje mockupa
-    - [ ] idejno rješenje
 - [ ] Pricing tables
   - [ ] definirati što točno ide ovdje (koje cijene i da li cijene)
 - [ ] Poruke
   - [ ] definirati što točno ide ovdje (koje poruke i da li poruke)
 - [ ] Portfolio
   - [ ] tekst na glavnoj slici
+
+# Materijali (Karlo) - gotov
+- [x] Usluge
+  - [x] e-commerce
+    - [x] mockup
+    - [x] before/after elementi
+  - [x] retouch
+    - [x] mockup
+    - [x] before/after elementi
+  - [x] obrada+
+    - [x] mockup
+    - [x] before/after elementi
+  - [x] prepress
+    - [x] mockup
+    - [x] before/after elementi
+  - [x] montaže
+    - [x] mockup
+    - [x] before/after elementi
+- [x] Portfolio
+  - [x] p1 - bicikl
+  - [x] p2 - dairy
+    - [x] nova verzija sa okvirom početne slike (drugačiji su elementi)
+    - [x] nova verzija bez okvira početne slike (drugačiji su elementi)
+  - [x] p3 - maca
+  - [x] p4 - rasvjeta
+  - [x] p5 - soba
+  - [x] p6 - vrtni
+  - [x] p7 - jastuk
+  - [x] p8 - auto
+    - [x] bluran background kao jedan od koraka
+    - [x] nova verzija sa okvirom početne slike (sa bluranim elementom)
+    - [x] nova verzija bez okvira početne slike (sa bluranim elementom)
 
 # ToDo - pregled svega
 ## index.html
@@ -98,8 +82,8 @@
     - [ ] Dejan
     - [ ] Majda
     - [ ] Karlo
-    - [ ] Silvija
-    - [ ] Andrea
+    - [x] Silvija
+    - [x] Andrea
     - [ ] Krešo
     - [ ] Nataša
     - [ ] Božica
@@ -147,17 +131,17 @@
   - [ ] ikonu promijenit na e-mail
   - [x] css popravit case
   - [ ] odredit koje poruke idu gore (pohvale / naručivanja / nešto treće)
-- [ ] Portfolio
+- [x] Portfolio
     - [x] projekt 1 - bicikl
       - [x] naslov revizija
       - [x] podnaslov
       - [x] slika sa okvirom
       - [x] slika bez okvira
-    - [ ] projekt 2 - dairy
+    - [x] projekt 2 - dairy
       - [x] naslov revizija
       - [x] podnaslov
-      - [ ] slika sa okvirom
-      - [ ] slika bez okvira
+      - [x] slika sa okvirom
+      - [x] slika bez okvira
     - [x] projekt 3 - maca
       - [x] naslov revizija
       - [x] podnaslov
@@ -183,11 +167,11 @@
       - [x] podnaslov
       - [x] slika sa okvirom
       - [x] slika bez okvira
-    - [ ] projekt 8 - auto
+    - [x] projekt 8 - auto
       - [x] naslov revizija
       - [x] podnaslov
-      - [ ] slika sa okvirom
-      - [ ] slika bez okvira
+      - [x] slika sa okvirom
+      - [x] slika bez okvira
 - [x] call to action big button
   - [x] naslov
   - [x] podnaslov
@@ -222,19 +206,19 @@
 - [x] layout
 - [x] glavna grafika mockup (novine)
 - [x] tekst opisa (gdje i kako pomaze AI, ubrzavanje procesa, ljudska kontrola)
-- [ ] primjeri obrade before/after (8 komada)
+- [x] primjeri obrade before/after (8 komada)
 
 ## u5.html - prepress
 - [x] layout
-- [ ] glavna grafika smislit mockup
+- [x] glavna grafika smislit mockup
 - [x] tekst opisa (izazovi, problemi sa strojevima zbog previse boje...)
-- [ ] stranice before/after
+- [x] stranice before/after
 
 ## u6.html - grafičko oblikovanje
 - [x] layout
-- [ ] glavna grafika mockup
+- [x] glavna grafika mockup
 - [x] tekst opisa (za koga smo radili, što smo radili, da li su bili neki izazovi...)
-- [ ] primjeri stranica (4-8 komada)
+- [x] primjeri stranica (4-8 komada)
 
 ## p1.html - bicikl
 - [x] slike alt opis na hrv
