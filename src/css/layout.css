@@ -1408,8 +1408,17 @@ ul.slimmenu.collapsed li > ul {
   text-align: left;
 }
 
+#home-top h4 b {
+  font-weight: bold;
+}
+
 #home-top p {
   text-align: left;
+  margin-bottom: 1em;
+}
+#home-top .centerbold {
+  text-align: left;
+  font-weight: bold;
 }
 .sep-left {
   position: relative;
@@ -1449,6 +1458,7 @@ ul.slimmenu.collapsed li > ul {
 
 #about p {
   text-align: center;
+  margin-bottom: 1em;
 }
 #about img {
   width: 100%;
@@ -2302,6 +2312,12 @@ ul.slimmenu.collapsed li > ul {
   padding-bottom: 30px;
   padding-top: 30px;
 }
+.table .table-fa {
+  position: relative;
+  width: 100%;
+  display: inline-block;
+  z-index: 2;
+}
 .table .table-fd h6 {
   text-align: center;
   padding-bottom: 5px;
@@ -2326,6 +2342,30 @@ ul.slimmenu.collapsed li > ul {
   height: 1px;
   bottom: 0;
   z-index: 10;
+}
+.table-fa .border-down {
+  position: absolute;
+  border-bottom: 1px inset #d4d4d4;
+  left: 20px;
+  right: 20px;
+  height: 1px;
+  bottom: 0;
+  z-index: 15;
+}
+.table-fa .small {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: .8em;
+  line-height: 1em;
+}
+.table-fa .lastsmall {
+  padding-bottom: 10px;
+}
+.table-fa p {
+  padding-bottom: 20px;
 }
 .table .table-link {
   position: relative;
@@ -2992,6 +3032,9 @@ textarea {
 }
 #usluge p {
   text-align: left;
+}
+#usluge .sixteen div {
+  text-align: center;
 }
 
 #usluge .bx-wrapper .bx-prev {
