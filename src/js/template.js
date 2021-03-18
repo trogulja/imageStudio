@@ -188,7 +188,7 @@ $(function () {
 
     // else:
 
-    images: ['images/1.jpg', 'images/2.jpg', 'images/3.jpg'],
+    images: ['images/1.jpg', 'images/2.jpg', 'images/3.jpg', 'images/4.jpg'],
 
     onStart: function () {},
     onPause: function () {},
@@ -233,7 +233,7 @@ $(document).ready(function () {
   });
 
   sync2.owlCarousel({
-    items: 9,
+    items: 8,
     itemsDesktop: [1199, 4],
     itemsDesktopSmall: [979, 4],
     itemsTablet: [768, 4],

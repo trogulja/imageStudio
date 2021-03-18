@@ -8,11 +8,11 @@
     - [x] Silvija
     - [x] Andrea
     - [ ] Krešo
-    - [ ] Nataša
+    - [x] Nataša
     - [ ] Božica
     - [x] Tibor
-- [ ] Naša specijalnost
-  - [ ] odluka što s tim... da li se miče ili transformira u nešto drugo
+- [x] Naša specijalnost
+  - [x] odluka što s tim... da li se miče ili transformira u nešto drugo
 - [ ] Klijenti (testimonials)
   - [ ] 1. klijent (ime i funkcija, citat)
   - [ ] 2. klijent (ime i funkcija, citat)
@@ -22,8 +22,8 @@
   - [ ] definirati što točno ide ovdje (koje cijene i da li cijene)
 - [ ] Poruke
   - [ ] definirati što točno ide ovdje (koje poruke i da li poruke)
-- [ ] Portfolio
-  - [ ] tekst na glavnoj slici
+- [x] Portfolio
+  - [x] tekst na glavnoj slici
 
 # Materijali (Karlo) - gotov
 - [x] Usluge
@@ -88,8 +88,8 @@
     - [ ] Nataša
     - [ ] Božica
     - [x] Tibor
-  - [ ] Naša specijalnost
-    - [ ] odluka što s tim... da li se miče ili transformira u nešto drugo
+  - [x] Naša specijalnost
+    - [x] odluka što s tim... da li se miče ili transformira u nešto drugo
 - [ ] Klijenti
   - [ ] logotipi klijenata
   - [ ] imena klijenata i njihove funkcije
