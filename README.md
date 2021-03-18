@@ -4,7 +4,7 @@
   - [ ] Odobrenje kolege da može na web + rečenica o sebi koja ide ispod slike
     - [ ] Dejan
     - [ ] Majda
-    - [ ] Karlo
+    - [x] Karlo
     - [x] Silvija
     - [x] Andrea
     - [ ] Krešo
@@ -81,11 +81,11 @@
   - [ ] odobrenje + citati - rečenica ili dvije teksta - svatko o sebi izmisliti (ako želi bit gore)
     - [ ] Dejan
     - [ ] Majda
-    - [ ] Karlo
+    - [x] Karlo
     - [x] Silvija
     - [x] Andrea
     - [ ] Krešo
-    - [ ] Nataša
+    - [x] Nataša
     - [ ] Božica
     - [x] Tibor
   - [x] Naša specijalnost
