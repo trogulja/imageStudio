@@ -1,18 +1,4 @@
-
 # Odobrenja / odluke (Dejan)
-- [ ] Tim
-  - [ ] Odobrenje kolege da može na web + rečenica o sebi koja ide ispod slike
-    - [ ] Dejan
-    - [ ] Majda
-    - [x] Karlo
-    - [x] Silvija
-    - [x] Andrea
-    - [ ] Krešo
-    - [x] Nataša
-    - [ ] Božica
-    - [x] Tibor
-- [x] Naša specijalnost
-  - [x] odluka što s tim... da li se miče ili transformira u nešto drugo
 - [ ] Klijenti (testimonials)
   - [ ] 1. klijent (ime i funkcija, citat)
   - [ ] 2. klijent (ime i funkcija, citat)
@@ -22,40 +8,6 @@
   - [ ] definirati što točno ide ovdje (koje cijene i da li cijene)
 - [ ] Poruke
   - [ ] definirati što točno ide ovdje (koje poruke i da li poruke)
-- [x] Portfolio
-  - [x] tekst na glavnoj slici
-
-# Materijali (Karlo) - gotov
-- [x] Usluge
-  - [x] e-commerce
-    - [x] mockup
-    - [x] before/after elementi
-  - [x] retouch
-    - [x] mockup
-    - [x] before/after elementi
-  - [x] obrada+
-    - [x] mockup
-    - [x] before/after elementi
-  - [x] prepress
-    - [x] mockup
-    - [x] before/after elementi
-  - [x] montaže
-    - [x] mockup
-    - [x] before/after elementi
-- [x] Portfolio
-  - [x] p1 - bicikl
-  - [x] p2 - dairy
-    - [x] nova verzija sa okvirom početne slike (drugačiji su elementi)
-    - [x] nova verzija bez okvira početne slike (drugačiji su elementi)
-  - [x] p3 - maca
-  - [x] p4 - rasvjeta
-  - [x] p5 - soba
-  - [x] p6 - vrtni
-  - [x] p7 - jastuk
-  - [x] p8 - auto
-    - [x] bluran background kao jedan od koraka
-    - [x] nova verzija sa okvirom početne slike (sa bluranim elementom)
-    - [x] nova verzija bez okvira početne slike (sa bluranim elementom)
 
 # ToDo - pregled svega
 ## index.html
@@ -77,16 +29,16 @@
     - [x] prijevod naslova na hr
     - [x] provjeriti kontrast brojki koje se vrte
     - [x] zamijeniti ikone relevantnim svgovima (trenutno png)
-- [ ] Tim
-  - [ ] odobrenje + citati - rečenica ili dvije teksta - svatko o sebi izmisliti (ako želi bit gore)
-    - [ ] Dejan
-    - [ ] Majda
+- [x] Tim
+  - [x] odobrenje + citati - rečenica ili dvije teksta - svatko o sebi izmisliti (ako želi bit gore)
+    - [x] Dejan
+    - [x] Majda
     - [x] Karlo
     - [x] Silvija
     - [x] Andrea
-    - [ ] Krešo
+    - [x] Krešo
     - [x] Nataša
-    - [ ] Božica
+    - [x] Božica
     - [x] Tibor
   - [x] Naša specijalnost
     - [x] odluka što s tim... da li se miče ili transformira u nešto drugo
