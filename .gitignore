@@ -1,2 +1,4 @@
 _mats/
 .secret
+node_modules/
+.ftp-deploy-sync-state.json
