@@ -10,6 +10,9 @@
   - [ ] definirati što točno ide ovdje (koje poruke i da li poruke)
 
 # ToDo - pregled svega
+## CI/CD
+- [ ] github actions - upload to ftp on commit
+
 ## index.html
 
 - [x] Navigacija
