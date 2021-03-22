@@ -12,6 +12,7 @@
 # ToDo - pregled svega
 ## CI/CD
 - [ ] github actions - upload to ftp on commit
+- [ ] test actions
 
 ## index.html
 
