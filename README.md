@@ -11,8 +11,9 @@
 
 # ToDo - pregled svega
 ## CI/CD
-- [ ] github actions - upload to ftp on commit
-- [ ] test actions 
+- [x] github actions - upload to ftp on commit
+- [x] test actions 
+- [x] local deploy setup
 
 ## index.html
 
