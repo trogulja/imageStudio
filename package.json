@@ -1,7 +1,11 @@
 {
-  "name": "imageStudio",
+  "name": "imagestudio",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "deploy": "powershell ./deploy.ps1",
+    "deploy:env": "ftp-deploy --server %FTP_HOSTNAME% --username %FTP_USERNAME% --password %FTP_PASSWORD% --local-dir src/ --server-dir public_html/ --log-level verbose --dry-run false"
+  },
   "repository": "https://github.com/trogulja/imageStudio.git",
   "author": "Tibor Rogulja <tibor.rogulja@gmail.com>",
   "license": "MIT",
