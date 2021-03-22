@@ -1,3 +1,4 @@
 _mats/
 .secret
 node_modules/
+yarn-error.log
