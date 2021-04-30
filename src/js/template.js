@@ -233,7 +233,7 @@ $(document).ready(function () {
   });
 
   sync2.owlCarousel({
-    items: 8,
+    items: 7,
     itemsDesktop: [1199, 4],
     itemsDesktopSmall: [979, 4],
     itemsTablet: [768, 4],
